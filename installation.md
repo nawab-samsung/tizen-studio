@@ -8,7 +8,7 @@
 .docs-ui-started [class^="docs-ui-"] {
     width: 900px; 
     height: 230px;
-    padding: 100px 0;
+    padding: 50px 0;
     text-align: center;
     border: 0 none;
     border-top: 1px solid #dadada;
@@ -56,9 +56,9 @@
     display: block;
     margin: auto;
     position: relative;
-    width: 100px;
-    height: 100px;
-    background: url(media/win7.png) no-repeat center top;
+    width: 85px;
+    height: 90px;
+    background: url(media/win.png) no-repeat center top;
     background-position: 0 0 !important;
 }
 .docs-ui-started .docs-ui-wearable {
@@ -73,7 +73,7 @@
     display: block;
     width: 85px;
     height: 90px;
-    background: url(media/linux.png) no-repeat center top;
+    background: url(media/linux1.png) no-repeat center top;
     background-position: 0 0 !important;
 }
 .docs-ui-started .docs-ui-tv {
@@ -86,10 +86,10 @@
     margin: auto;
     position: relative;
 	display: block;
-    width: 100px;
+    width: 85px;
     height: 90px;
-    background: url(media/apple.png) no-repeat center top;
-    background-position: 0 0 !important;
+    background: url(media/apple1.png) no-repeat center top;
+    background-position: 10 0 !important;
 }
 .docs-ui-started .docs-ui-widget {
     width: 33%;
