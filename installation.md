@@ -121,7 +121,7 @@ This page explains about options available to install Tizen Studio on your devel
 - Install Tizen Studio:  follow the installation guides for each operating system
 - Configure: After installation, to have optimal development experience, configure various Tizen Studio components.  
 
-Tizen Studio runs on Windows? Ubuntu, as well as macOS. 
+Tizen Studio runs on Windows, Ubuntu, as well as macOS and for installation guide, click the following as per target operating system:  
 <br>
 <br>
 <br>
